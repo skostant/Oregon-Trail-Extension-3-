@@ -1,0 +1,12 @@
+Player: Rowan - 08/01/2023 16:56:44
+ - Win - True
+Player: zander - 08/01/2023 16:58:19
+ - Win - False
+Player: Testing - 08/01/2023 17:03:08
+Data: 
+ - MONTH: July
+ - DAY: 26
+ - MILES LEFT: 0
+ - HEALTH: 2
+ - FOOD: 265 lbs
+ - Win: True
